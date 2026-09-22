@@ -13,7 +13,7 @@
 ### 👤 About Me
 
 - 🔭 Focused on **machine learning algorithms, statistical modeling, and data-driven solutions**.
-- 🌱 Continual learning across **deep learning architectures, natural language processing, and system optimization**.
+- 🌱 Continual learning across **deep learning architectures, natural language processing, and system optimisation**.
 - 💬 Interested in discussions around **predictive modeling and data analytics**.
 
 ---
