@@ -14,8 +14,7 @@
 
 - 🔭 Focused on **machine learning algorithms, statistical modeling, and data-driven solutions**.
 - 🌱 Continual learning across **deep learning architectures, natural language processing, and system optimization**.
-- 💬 Interested in discussions around **predictive modeling, data analytics, and computational mathematics**.
-- ⚡ Enjoy solving complex logic problems through clean, efficient code.
+- 💬 Interested in discussions around **predictive modeling and data analytics**.
 
 ---
 
