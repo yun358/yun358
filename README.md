@@ -4,7 +4,7 @@
 
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=fff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4DB&center=true&vCenter=true&width=500&lines=Data+Science+%26+Machine+Learning;Applied+Mathematics;Open-Source+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4DB&center=true&vCenter=true&width=500&lines=Data+Science+%26+Machine+Learning)](https://git.io/typing-svg)
 
 </div>
 
